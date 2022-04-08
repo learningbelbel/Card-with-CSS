@@ -28,7 +28,8 @@ body{
     top: 0;
     right: 35px;
     transition: 1.9s;
-    background: linear-gradient(50deg, #00ff59, #02b3ff);
+    /* background: linear-gradient(50deg, #00ff59, #02b3ff); */
+    background: linear-gradient(50deg, #ff0000, #0fff02);
     transform: rotate(-45deg) translate(0, -100px);
 }
 .card{
